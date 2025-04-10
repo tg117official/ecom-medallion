@@ -1,0 +1,30 @@
+[
+  {
+    "product_id": "PROD301",
+    "product_name": "USB Drive",
+    "category": "Electronics",
+    "price": 499.00,
+    "stock_quantity": 120
+  },
+  {
+    "product_id": "PROD302",
+    "product_name": "Notebook",
+    "category": "Stationery",
+    "price": 50.00,
+    "stock_quantity": 0
+  },
+  {
+    "product_id": "PROD303",
+    "product_name": "Headphones",
+    "category": "Electronics",
+    "price": 1999.99,
+    "stock_quantity": -10
+  },
+  {
+    "product_id": "PROD304",
+    "product_name": "Smartphone Case",
+    "category": "Accessories",
+    "price": 299.00,
+    "stock_quantity": "fifty"
+  }
+]

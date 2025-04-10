@@ -1,0 +1,5 @@
+[
+  { "customer_id": "CUST1001", "first_name": "Rina", "last_name": "Mehra", "email": "rina@example.com", "address": "Indore", "phone_number": "9876543210" },
+  { "customer_id": "CUST1002", "first_name": "Aman", "last_name": "Gupta", "email": "aman@example.com", "address": "Pune", "phone_number": "9123456789" },
+  { "customer_id": "CUST1003", "first_name": "Simran", "last_name": "Kaur", "email": "simran@example.com", "address": "Delhi", "phone_number": "9900112233" }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "product_id": "PROD2001",
+    "product_name": "Wi-Fi Repeater",
+    "category": "Networking",
+    "description": "Boosts home Wi-Fi coverage",
+    "price": 1299.00,
+    "availability_status": "In Stock"
+  },
+  {
+    "product_id": "PROD2002",
+    "product_name": "Smart Plug",
+    "category": "Smart Home",
+    "description": "Remote control plug",
+    "price": 899.00,
+    "availability_status": "Out of Stock"
+  },
+  {
+    "product_id": "PROD2003",
+    "product_name": "Air Purifier",
+    "category": "Home Appliances",
+    "description": "HEPA filter with smart app",
+    "price": 5499.00,
+    "availability_status": "Pre-Order",
+    "discount": 10
+  },
+  {
+    "product_id": "PROD2004",
+    "product_name": "Robot Vacuum",
+    "category": "Home Appliances",
+    "description": "Scheduled cleaning robot",
+    "price": 15999.00,
+    "availability_status": "In Stock",
+    "warranty_period": "2 Years"
+  }
+]

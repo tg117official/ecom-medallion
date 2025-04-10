@@ -1,0 +1,82 @@
+[
+  {
+    "order_id": "ORD3301",
+    "customer_id": "CUST3301",
+    "product_id": "PROD3301",
+    "order_date": "2025-03-05T10:00:00",
+    "order_status": "Delivered",
+    "quantity": 1,
+    "price": 499.00,
+    "total_sales": 499.00
+  },
+  {
+    "order_id": "ORD3302",
+    "customer_id": "CUST3302",
+    "product_id": "PROD3302",
+    "order_date": "2025-03-12T11:00:00",
+    "order_status": "Delivered",
+    "quantity": 2,
+    "price": 399.00,
+    "total_sales": 798.00
+  },
+  {
+    "order_id": "ORD3303",
+    "customer_id": "CUST3303",
+    "product_id": "PROD3303",
+    "order_date": "2025-03-18T09:00:00",
+    "order_status": "Delivered",
+    "quantity": 1,
+    "price": 599.00,
+    "total_sales": 599.00
+  },
+  {
+    "order_id": "ORD3304",
+    "customer_id": "CUST3304",
+    "product_id": "PROD3304",
+    "order_date": "2025-03-22T15:30:00",
+    "order_status": "Delivered",
+    "quantity": 3,
+    "price": 299.00,
+    "total_sales": 897.00
+  },
+  {
+    "order_id": "ORD3305",
+    "customer_id": "CUST3305",
+    "product_id": "PROD3305",
+    "order_date": "2025-03-27T16:00:00",
+    "order_status": "Delivered",
+    "quantity": 1,
+    "price": 1099.00,
+    "total_sales": 1099.00
+  },
+  {
+    "order_id": "ORD3306",
+    "customer_id": "CUST3306",
+    "product_id": "PROD3306",
+    "order_date": "2025-04-01T14:00:00",
+    "order_status": "Delivered",
+    "quantity": 2,
+    "price": 799.00,
+    "total_sales": 1598.00
+  },
+  {
+    "order_id": "ORD3307",
+    "customer_id": "CUST3307",
+    "product_id": "PROD3307",
+    "order_date": "2025-04-04T13:00:00",
+    "order_status": "Delivered",
+    "quantity": 4,
+    "price": 599.00,
+    "total_sales": 2396.00
+  },
+  {
+    "order_id": "ORD3308",
+    "customer_id": "CUST3308",
+    "product_id": "PROD3308",
+    "order_date": "2025-04-05T10:00:00",
+    "order_status": "Delivered",
+    "quantity": 10,
+    "price": 1499.00,
+    "total_sales": 14990.00
+  }
+]

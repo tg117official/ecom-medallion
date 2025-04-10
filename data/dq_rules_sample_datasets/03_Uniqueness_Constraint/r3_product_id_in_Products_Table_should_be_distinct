@@ -1,0 +1,58 @@
+[
+  {
+    "product_id": "PROD701",
+    "product_name": "Smart Watch",
+    "category": "Wearables",
+    "price": 2499.00,
+    "stock_quantity": 75
+  },
+  {
+    "product_id": "PROD702",
+    "product_name": "Laptop Bag",
+    "category": "Accessories",
+    "price": 1199.50,
+    "stock_quantity": 60
+  },
+  {
+    "product_id": "PROD703",
+    "product_name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 3499.00,
+    "stock_quantity": 40
+  },
+  {
+    "product_id": "PROD704",
+    "product_name": "Webcam HD",
+    "category": "Electronics",
+    "price": 1999.00,
+    "stock_quantity": 90
+  },
+  {
+    "product_id": "PROD702",
+    "product_name": "Laptop Backpack",
+    "category": "Bags",
+    "price": 1250.00,
+    "stock_quantity": 70
+  },
+  {
+    "product_id": "PROD705",
+    "product_name": "Portable Speaker",
+    "category": "Audio",
+    "price": 1799.00,
+    "stock_quantity": 100
+  },
+  {
+    "product_id": "PROD703",
+    "product_name": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 3599.00,
+    "stock_quantity": 30
+  },
+  {
+    "product_id": "PROD706",
+    "product_name": "HDMI Cable",
+    "category": "Accessories",
+    "price": 299.00,
+    "stock_quantity": 150
+  }
+]

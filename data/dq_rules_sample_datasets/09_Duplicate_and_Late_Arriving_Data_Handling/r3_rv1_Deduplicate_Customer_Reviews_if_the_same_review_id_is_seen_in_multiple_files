@@ -1,0 +1,26 @@
+[
+  {
+    "review_id": "REV2401",
+    "customer_id": "CUST2401",
+    "product_id": "PROD2401",
+    "rating": 4,
+    "review_text": "Good quality.",
+    "review_date": "2025-04-01T10:00:00"
+  },
+  {
+    "review_id": "REV2402",
+    "customer_id": "CUST2402",
+    "product_id": "PROD2402",
+    "rating": 5,
+    "review_text": "Amazing product!",
+    "review_date": "2025-04-01T12:30:00"
+  },
+  {
+    "review_id": "REV2403",
+    "customer_id": "CUST2403",
+    "product_id": "PROD2403",
+    "rating": 3,
+    "review_text": "Decent, not great.",
+    "review_date": "2025-04-01T14:00:00"
+  }
+]

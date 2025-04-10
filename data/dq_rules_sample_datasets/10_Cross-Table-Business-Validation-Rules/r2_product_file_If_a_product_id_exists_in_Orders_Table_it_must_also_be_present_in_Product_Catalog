@@ -1,0 +1,26 @@
+[
+  {
+    "product_id": "PROD2601",
+    "product_name": "Smart Switch",
+    "category": "Smart Home",
+    "description": "App-controlled smart wall switch",
+    "price": 1599.00,
+    "availability_status": "In Stock"
+  },
+  {
+    "product_id": "PROD2602",
+    "product_name": "Mini Projector",
+    "category": "Electronics",
+    "description": "Portable HD projector for home",
+    "price": 8999.00,
+    "availability_status": "Pre-Order"
+  },
+  {
+    "product_id": "PROD2603",
+    "product_name": "Smart Scale",
+    "category": "Health",
+    "description": "Bluetooth-enabled digital weight scale",
+    "price": 1999.00,
+    "availability_status": "In Stock"
+  }
+]

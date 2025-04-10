@@ -1,0 +1,66 @@
+[
+  {
+    "review_id": "REV1001",
+    "customer_id": "CUST1001",
+    "product_id": "PROD1001",
+    "rating": 5,
+    "review_text": "Excellent tablet!",
+    "review_date": "2024-06-01T10:00:00"
+  },
+  {
+    "review_id": "REV1002",
+    "customer_id": "CUST1002",
+    "product_id": "PROD1002",
+    "rating": 4,
+    "review_text": "Works well.",
+    "review_date": "2024-06-02T14:30:00"
+  },
+  {
+    "review_id": "REV1003",
+    "customer_id": "CUST9999",
+    "product_id": "PROD1003",
+    "rating": 3,
+    "review_text": "Decent performance.",
+    "review_date": "2024-06-03T09:15:00"
+  },
+  {
+    "review_id": "REV1004",
+    "customer_id": "CUST1003",
+    "product_id": "PROD8888",
+    "rating": 2,
+    "review_text": "Stopped working after a month.",
+    "review_date": "2024-06-04T11:00:00"
+  },
+  {
+    "review_id": "REV1005",
+    "customer_id": "CUST1003",
+    "product_id": "PROD1003",
+    "rating": 5,
+    "review_text": "Great value for money.",
+    "review_date": "2024-06-05T16:00:00"
+  },
+  {
+    "review_id": "REV1006",
+    "customer_id": "CUST1002",
+    "product_id": "PROD1001",
+    "rating": 4,
+    "review_text": "Very handy and portable.",
+    "review_date": "2024-06-06T18:20:00"
+  },
+  {
+    "review_id": "REV1007",
+    "customer_id": "CUST1001",
+    "product_id": "PROD1003",
+    "rating": 5,
+    "review_text": "Highly recommended.",
+    "review_date": "2024-06-07T12:40:00"
+  },
+  {
+    "review_id": "REV1008",
+    "customer_id": "CUST0000",
+    "product_id": "PROD0000",
+    "rating": 1,
+    "review_text": "Worst purchase ever.",
+    "review_date": "2024-06-08T10:00:00"
+  }
+]

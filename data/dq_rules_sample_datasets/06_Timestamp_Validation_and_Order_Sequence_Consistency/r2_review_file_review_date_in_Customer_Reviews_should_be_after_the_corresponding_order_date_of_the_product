@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "REV1501",
+    "customer_id": "CUST1501",
+    "product_id": "PROD1501",
+    "rating": 5,
+    "review_text": "Great value!",
+    "review_date": "2025-04-02T10:00:00"
+  },
+  {
+    "review_id": "REV1502",
+    "customer_id": "CUST1502",
+    "product_id": "PROD1502",
+    "rating": 4,
+    "review_text": "Satisfied",
+    "review_date": "2025-04-03T10:00:00"
+  },
+  {
+    "review_id": "REV1503",
+    "customer_id": "CUST1503",
+    "product_id": "PROD1503",
+    "rating": 3,
+    "review_text": "Okay product.",
+    "review_date": "2025-04-10T12:00:00"
+  },
+  {
+    "review_id": "REV1504",
+    "customer_id": "CUST1504",
+    "product_id": "PROD1504",
+    "rating": 5,
+    "review_text": "Very satisfied!",
+    "review_date": "2025-04-08T13:00:00"
+  },
+  {
+    "review_id": "REV1505",
+    "customer_id": "CUST1501",
+    "product_id": "PROD1501",
+    "rating": 2,
+    "review_text": "Changed my mind later.",
+    "review_date": "2025-04-01T08:00:00"
+  }
+]

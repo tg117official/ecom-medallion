@@ -1,0 +1,30 @@
+[
+  {
+    "product_id": "PROD901",
+    "product_name": "Wireless Earbuds",
+    "category": "Audio",
+    "price": 2999.00,
+    "stock_quantity": 150
+  },
+  {
+    "product_id": "PROD902",
+    "product_name": "Gaming Mouse",
+    "category": "Electronics",
+    "price": 1499.00,
+    "stock_quantity": 80
+  },
+  {
+    "product_id": "PROD903",
+    "product_name": "Laptop Cooling Pad",
+    "category": "Accessories",
+    "price": 899.00,
+    "stock_quantity": 200
+  },
+  {
+    "product_id": "PROD904",
+    "product_name": "Portable SSD",
+    "category": "Storage",
+    "price": 5999.00,
+    "stock_quantity": 60
+  }
+]

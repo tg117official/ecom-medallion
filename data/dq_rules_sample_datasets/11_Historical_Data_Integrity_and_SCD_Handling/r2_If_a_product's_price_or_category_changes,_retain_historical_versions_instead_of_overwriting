@@ -1,0 +1,50 @@
+[
+  {
+    "product_id": "PROD2901",
+    "product_name": "Smart Air Fryer",
+    "category": "Kitchen Appliances",
+    "price": 5999.00,
+    "stock_quantity": 100,
+    "lastmodified": "2024-12-01T09:00:00"
+  },
+  {
+    "product_id": "PROD2901",
+    "product_name": "Smart Air Fryer",
+    "category": "Home Electronics",
+    "price": 6499.00,
+    "stock_quantity": 100,
+    "lastmodified": "2025-04-01T10:30:00"
+  },
+  {
+    "product_id": "PROD2902",
+    "product_name": "Bluetooth Speaker",
+    "category": "Audio",
+    "price": 2999.00,
+    "stock_quantity": 200,
+    "lastmodified": "2025-03-10T08:00:00"
+  },
+  {
+    "product_id": "PROD2902",
+    "product_name": "Bluetooth Speaker",
+    "category": "Audio",
+    "price": 3199.00,
+    "stock_quantity": 200,
+    "lastmodified": "2025-04-01T12:00:00"
+  },
+  {
+    "product_id": "PROD2903",
+    "product_name": "Smart Plug",
+    "category": "Smart Home",
+    "price": 899.00,
+    "stock_quantity": 150,
+    "lastmodified": "2025-04-01T09:30:00"
+  },
+  {
+    "product_id": "PROD2904",
+    "product_name": "Robot Vacuum",
+    "category": "Home Appliances",
+    "price": 14999.00,
+    "stock_quantity": 50,
+    "lastmodified": "2025-04-01T11:00:00"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "review_id": "REV301",
+    "customer_id": "CUST301",
+    "product_id": "PROD301",
+    "rating": 5,
+    "review_text": "Outstanding quality!",
+    "review_date": "2024-01-01T10:00:00"
+  },
+  {
+    "review_id": "REV302",
+    "customer_id": "CUST302",
+    "product_id": "PROD302",
+    "rating": 3,
+    "review_text": "Satisfactory product.",
+    "review_date": "2024-01-02T12:30:00"
+  },
+  {
+    "review_id": "REV303",
+    "customer_id": "CUST303",
+    "product_id": "PROD303",
+    "rating": 1,
+    "review_text": "Not worth the price.",
+    "review_date": "2024-01-03T09:15:00"
+  },
+  {
+    "review_id": "REV304",
+    "customer_id": "CUST304",
+    "product_id": "PROD304",
+    "rating": 6,
+    "review_text": "Exceeded expectations!",
+    "review_date": "2024-01-04T14:45:00"
+  },
+  {
+    "review_id": "REV305",
+    "customer_id": "CUST305",
+    "product_id": "PROD305",
+    "rating": 0,
+    "review_text": "Very bad experience.",
+    "review_date": "2024-01-05T10:00:00"
+  },
+  {
+    "review_id": "REV306",
+    "customer_id": "CUST306",
+    "product_id": "PROD306",
+    "rating": -2,
+    "review_text": "Broken on arrival.",
+    "review_date": "2024-01-06T11:00:00"
+  },
+  {
+    "review_id": "REV307",
+    "customer_id": "CUST307",
+    "product_id": "PROD307",
+    "rating": null,
+    "review_text": "No rating given.",
+    "review_date": "2024-01-07T13:10:00"
+  },
+  {
+    "review_id": "REV308",
+    "customer_id": "CUST308",
+    "product_id": "PROD308",
+    "rating": "four",
+    "review_text": "Nice product.",
+    "review_date": "2024-01-08T08:20:00"
+  }
+]

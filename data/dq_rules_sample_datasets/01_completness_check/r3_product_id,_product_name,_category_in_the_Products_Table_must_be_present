@@ -1,0 +1,58 @@
+[
+  {
+    "product_id": "PROD001",
+    "product_name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 599.99,
+    "stock_quantity": 150
+  },
+  {
+    "product_id": "PROD002",
+    "product_name": "Gaming Keyboard",
+    "category": "Electronics",
+    "price": 1299.00,
+    "stock_quantity": 80
+  },
+  {
+    "product_id": null,
+    "product_name": "Laptop Stand",
+    "category": "Accessories",
+    "price": 799.50,
+    "stock_quantity": 200
+  },
+  {
+    "product_id": "PROD004",
+    "product_name": null,
+    "category": "Office Supplies",
+    "price": 349.75,
+    "stock_quantity": 60
+  },
+  {
+    "product_id": "PROD005",
+    "product_name": "Bluetooth Speaker",
+    "category": null,
+    "price": 999.00,
+    "stock_quantity": 120
+  },
+  {
+    "product_id": "PROD006",
+    "product_name": "USB-C Charger",
+    "category": "Electronics",
+    "price": 699.00,
+    "stock_quantity": 90
+  },
+  {
+    "product_id": "PROD007",
+    "product_name": "Desk Lamp",
+    "category": "Home Decor",
+    "price": 449.99,
+    "stock_quantity": 40
+  },
+  {
+    "product_id": "PROD008",
+    "product_name": "Pen Set",
+    "category": "Office Supplies",
+    "price": 249.50,
+    "stock_quantity": 500
+  }
+]

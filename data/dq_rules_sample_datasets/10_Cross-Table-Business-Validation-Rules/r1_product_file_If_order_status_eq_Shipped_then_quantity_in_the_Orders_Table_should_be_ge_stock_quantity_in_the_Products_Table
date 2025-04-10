@@ -1,0 +1,30 @@
+[
+  {
+    "product_id": "PROD2501",
+    "product_name": "Smart Fan",
+    "category": "Electronics",
+    "price": 2499.00,
+    "stock_quantity": 5
+  },
+  {
+    "product_id": "PROD2502",
+    "product_name": "Desk Lamp",
+    "category": "Home Decor",
+    "price": 899.00,
+    "stock_quantity": 10
+  },
+  {
+    "product_id": "PROD2503",
+    "product_name": "USB Charger",
+    "category": "Accessories",
+    "price": 499.00,
+    "stock_quantity": 3
+  },
+  {
+    "product_id": "PROD2504",
+    "product_name": "Laptop Stand",
+    "category": "Furniture",
+    "price": 1499.00,
+    "stock_quantity": 8
+  }
+]

@@ -1,0 +1,38 @@
+[
+  { "customer_id": "CUST1901", "signup_date": "2025-04-01" },
+  { "customer_id": "CUST1902", "signup_date": "2025-04-01" },
+  { "customer_id": "CUST1903", "signup_date": "2025-04-01" },
+
+  { "customer_id": "CUST1904", "signup_date": "2025-04-02" },
+  { "customer_id": "CUST1905", "signup_date": "2025-04-02" },
+
+  { "customer_id": "CUST1906", "signup_date": "2025-04-03" },
+
+  { "customer_id": "CUST1907", "signup_date": "2025-04-04" },
+  { "customer_id": "CUST1908", "signup_date": "2025-04-04" },
+
+  { "customer_id": "CUST1909", "signup_date": "2025-04-05" },
+  { "customer_id": "CUST1910", "signup_date": "2025-04-05" },
+  { "customer_id": "CUST1911", "signup_date": "2025-04-05" },
+
+  // Anomaly day (30+ signups)
+  { "customer_id": "CUST1912", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1913", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1914", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1915", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1916", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1917", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1918", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1919", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1920", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1921", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1922", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1923", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1924", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1925", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1926", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1927", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1928", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1929", "signup_date": "2025-04-06" },
+  { "customer_id": "CUST1930", "signup_date": "2025-04-06" }
+]

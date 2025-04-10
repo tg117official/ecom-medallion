@@ -1,0 +1,58 @@
+[
+  {
+    "product_id": "PROD401",
+    "product_name": "Wireless Charger",
+    "category": "Electronics",
+    "price": 899.00,
+    "stock_quantity": 150
+  },
+  {
+    "product_id": "PROD402",
+    "product_name": "Notebook",
+    "category": "Stationery",
+    "price": 45.50,
+    "stock_quantity": 300
+  },
+  {
+    "product_id": "PROD403",
+    "product_name": "LED Light",
+    "category": "Home Decor",
+    "price": 0.00,
+    "stock_quantity": 100
+  },
+  {
+    "product_id": "PROD404",
+    "product_name": "Fitness Band",
+    "category": "Wearables",
+    "price": -1500.00,
+    "stock_quantity": 50
+  },
+  {
+    "product_id": "PROD405",
+    "product_name": "USB Hub",
+    "category": "Accessories",
+    "price": null,
+    "stock_quantity": 90
+  },
+  {
+    "product_id": "PROD406",
+    "product_name": "Monitor Stand",
+    "category": "Furniture",
+    "price": "one thousand",
+    "stock_quantity": 40
+  },
+  {
+    "product_id": "PROD407",
+    "product_name": "Mouse Pad",
+    "category": "Office Supplies",
+    "price": 99.99,
+    "stock_quantity": 200
+  },
+  {
+    "product_id": "PROD408",
+    "product_name": "Smart Plug",
+    "category": "Electronics",
+    "price": 499.00,
+    "stock_quantity": 80
+  }
+]

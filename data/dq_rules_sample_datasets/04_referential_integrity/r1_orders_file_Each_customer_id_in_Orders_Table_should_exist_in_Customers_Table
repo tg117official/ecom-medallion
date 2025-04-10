@@ -1,0 +1,74 @@
+[
+  {
+    "order_id": "ORD801",
+    "customer_id": "CUST801",
+    "product_id": "PROD801",
+    "order_date": "2024-04-01T10:00:00",
+    "order_status": "Delivered",
+    "quantity": 2,
+    "price": 399.99
+  },
+  {
+    "order_id": "ORD802",
+    "customer_id": "CUST802",
+    "product_id": "PROD802",
+    "order_date": "2024-04-02T12:30:00",
+    "order_status": "Shipped",
+    "quantity": 1,
+    "price": 150.00
+  },
+  {
+    "order_id": "ORD803",
+    "customer_id": "CUST900",
+    "product_id": "PROD803",
+    "order_date": "2024-04-03T14:00:00",
+    "order_status": "Pending",
+    "quantity": 3,
+    "price": 250.00
+  },
+  {
+    "order_id": "ORD804",
+    "customer_id": "CUST804",
+    "product_id": "PROD804",
+    "order_date": "2024-04-04T09:00:00",
+    "order_status": "Delivered",
+    "quantity": 1,
+    "price": 799.00
+  },
+  {
+    "order_id": "ORD805",
+    "customer_id": "CUST803",
+    "product_id": "PROD805",
+    "order_date": "2024-04-05T11:45:00",
+    "order_status": "Cancelled",
+    "quantity": 4,
+    "price": 349.00
+  },
+  {
+    "order_id": "ORD806",
+    "customer_id": "CUST999",
+    "product_id": "PROD806",
+    "order_date": "2024-04-06T08:30:00",
+    "order_status": "Shipped",
+    "quantity": 2,
+    "price": 199.99
+  },
+  {
+    "order_id": "ORD807",
+    "customer_id": "CUST802",
+    "product_id": "PROD807",
+    "order_date": "2024-04-07T16:00:00",
+    "order_status": "Delivered",
+    "quantity": 1,
+    "price": 599.00
+  },
+  {
+    "order_id": "ORD808",
+    "customer_id": "CUST801",
+    "product_id": "PROD808",
+    "order_date": "2024-04-08T17:00:00",
+    "order_status": "Pending",
+    "quantity": 2,
+    "price": 329.00
+  }
+]

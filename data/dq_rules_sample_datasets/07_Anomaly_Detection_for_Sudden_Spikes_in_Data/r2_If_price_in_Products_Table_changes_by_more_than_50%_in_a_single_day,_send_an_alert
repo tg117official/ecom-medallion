@@ -1,0 +1,66 @@
+[
+  {
+    "product_id": "PROD1801",
+    "product_name": "Bluetooth Speaker",
+    "category": "Audio",
+    "price": 2000.00,
+    "stock_quantity": 50,
+    "recorded_at": "2025-04-01T10:00:00"
+  },
+  {
+    "product_id": "PROD1801",
+    "product_name": "Bluetooth Speaker",
+    "category": "Audio",
+    "price": 2100.00,
+    "stock_quantity": 50,
+    "recorded_at": "2025-04-02T10:00:00"
+  },
+  {
+    "product_id": "PROD1802",
+    "product_name": "Smartwatch",
+    "category": "Wearables",
+    "price": 4999.00,
+    "stock_quantity": 30,
+    "recorded_at": "2025-04-01T09:00:00"
+  },
+  {
+    "product_id": "PROD1802",
+    "product_name": "Smartwatch",
+    "category": "Wearables",
+    "price": 2500.00,
+    "stock_quantity": 30,
+    "recorded_at": "2025-04-02T09:00:00"
+  },
+  {
+    "product_id": "PROD1803",
+    "product_name": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 800.00,
+    "stock_quantity": 100,
+    "recorded_at": "2025-04-01T08:00:00"
+  },
+  {
+    "product_id": "PROD1803",
+    "product_name": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 1600.00,
+    "stock_quantity": 100,
+    "recorded_at": "2025-04-02T08:00:00"
+  },
+  {
+    "product_id": "PROD1804",
+    "product_name": "Keyboard",
+    "category": "Accessories",
+    "price": 1200.00,
+    "stock_quantity": 40,
+    "recorded_at": "2025-04-01T10:00:00"
+  },
+  {
+    "product_id": "PROD1804",
+    "product_name": "Keyboard",
+    "category": "Accessories",
+    "price": 1199.00,
+    "stock_quantity": 40,
+    "recorded_at": "2025-04-02T10:00:00"
+  }
+]

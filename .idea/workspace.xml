@@ -4,7 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff40d869-27e3-47e1-b53c-676c21d8b1e9" name="Changes" comment="Added Structure" />
+    <list default="true" id="ff40d869-27e3-47e1-b53c-676c21d8b1e9" name="Changes" comment="ECOM-101 | test commit for integration check">
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/01_completness_check/r1_order_id, customer_id, product_id, order_date, and order_status _ not_null" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/02_data_type_validation/r1_review_date must be valid timestamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/02_data_type_validation/r2_quantity_should be non-negative integers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/02_data_type_validation/r3_rating in Customer Reviews must be an integer between 1 and 5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/02_data_type_validation/r4_products_price should always be a decimal greater than zero" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/03_Uniqueness_Constraint/r1_order_id in Orders Table must be unique" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/03_Uniqueness_Constraint/r2_customer_id in Customers Table should not have duplicate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/03_Uniqueness_Constraint/r3_product_id in Products Table should be distinct" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/04_referential_integrity/r1_customer_file_Each customer_id in Orders Table should exist in Customers Table" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/04_referential_integrity/r1_orders_file_Each customer_id in Orders Table should exist in Customers Table" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/05_Business_Rule_Validation/r1_order_status should be one of Pending Shipped Delivered Cancelled" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/05_Business_Rule_Validation/r2_availability_status in Product Catalog should be one of In Stock Out of Stock Pre-Order" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/05_Business_Rule_Validation/r4_phone_number should contain only numeric values with valid length" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/06_Timestamp_Validation_and_Order_Sequence_Consistency/r1_order_date should not be greater than the current timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/06_Timestamp_Validation_and_Order_Sequence_Consistency/r2_order_file_review_date in Customer Reviews should be after the corresponding order_date of the produc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/06_Timestamp_Validation_and_Order_Sequence_Consistency/r2_review_file_review_date in Customer Reviews should be after the corresponding order_date of the product" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/06_Timestamp_Validation_and_Order_Sequence_Consistency/r3_If an order has multiple records should be in an increasing sequence" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/07_Anomaly_Detection_for_Sudden_Spikes_in_Data/r1_If the average order quantity is normally 1-10 items per order, but an order suddenly has 1000+ items, flag it for manual review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/07_Anomaly_Detection_for_Sudden_Spikes_in_Data/r2_If price in Products Table changes by more than 50% in a single day, send an alert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/07_Anomaly_Detection_for_Sudden_Spikes_in_Data/r3_If a sudden influx of new customers is detected trigger an anomaly check" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/08_Data_Drift_and_Schema_Evolution_Checks/r1_If a new column appears in the Product Catalog file, it should be logged and reviewed before processing" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/08_Data_Drift_and_Schema_Evolution_Checks/r2_Check for missing columns in incoming reviews files and abort ingestion if critical fields are absen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/09_Duplicate_and_Late_Arriving_Data_Handling/r1_If two records with the same order_id exist in the same batch retain only the latest record" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/09_Duplicate_and_Late_Arriving_Data_Handling/r2_If an order update arrives 5+ days after the original order, log it as late-arriving data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/09_Duplicate_and_Late_Arriving_Data_Handling/r3_rv1_Deduplicate Customer Reviews if the same review_id is seen in multiple files" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/09_Duplicate_and_Late_Arriving_Data_Handling/r3_rv2_Deduplicate Customer Reviews if the same review_id is seen in multiple files" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/10_Cross-Table-Business-Validation-Rules/r1_order_file_If order_status eq Shipped then quantity in the Orders Table should be ge stock_quantity in the Products Table" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/10_Cross-Table-Business-Validation-Rules/r1_product_file_If order_status eq Shipped then quantity in the Orders Table should be ge stock_quantity in the Products Table" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/10_Cross-Table-Business-Validation-Rules/r2_order_file_If a product_id exists in Orders Table, it must also be present in Product Catalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/10_Cross-Table-Business-Validation-Rules/r2_product_file_If a product_id exists in Orders Table it must also be present in Product Catalog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/11_Historical_Data_Integrity_and_SCD_Handling/r1_If a customer's address or email changes, insert a new record with an effective_date and mark the previous record as inactive" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/11_Historical_Data_Integrity_and_SCD_Handling/r2_If a product's price or category changes, retain historical versions instead of overwriting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/12_Evaluation_of_Derived_Attributes/r1_total_sales" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/12_Evaluation_of_Derived_Attributes/r2_customers_clv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/12_Evaluation_of_Derived_Attributes/r2_orders_clv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/12_Evaluation_of_Derived_Attributes/r3_Average_Product_Rating" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/13_Outlier_Detection_and_Fraudulent_Transactions/r1_z_score" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dq_rules_sample_datasets/13_Outlier_Detection_and_Fraudulent_Transactions/r2_If a single customer_id submits gt 50 reviews in a day mark for review" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,22 +54,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2vUzPWFFB7pYzlEkOvE0qEI3WuU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Sandeep/PycharmProjects/ecom-medallion"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sandeep/PycharmProjects/ecom-medallion&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sandeep\PycharmProjects\ecom-medallion" />
@@ -58,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744214657533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ECOM-101 | test commit for integration check">
+      <option name="closed" value="true" />
+      <created>1744215952872</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744215952872</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Structure" />
+    <MESSAGE value="ECOM-101 | test commit for integration check" />
+    <option name="LAST_COMMIT_MESSAGE" value="ECOM-101 | test commit for integration check" />
   </component>
 </project>

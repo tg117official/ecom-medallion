@@ -1,0 +1,66 @@
+[
+  {
+    "product_id": "PROD1101",
+    "product_name": "Noise Cancelling Headphones",
+    "category": "Audio",
+    "description": "Over-ear wireless headphones with ANC",
+    "price": 3499.00,
+    "availability_status": "In Stock"
+  },
+  {
+    "product_id": "PROD1102",
+    "product_name": "Smart LED Bulb",
+    "category": "Smart Home",
+    "description": "Color changing Wi-Fi bulb",
+    "price": 599.00,
+    "availability_status": "Out of Stock"
+  },
+  {
+    "product_id": "PROD1103",
+    "product_name": "Wireless Keyboard",
+    "category": "Accessories",
+    "description": "Compact Bluetooth keyboard",
+    "price": 999.00,
+    "availability_status": "Pre-Order"
+  },
+  {
+    "product_id": "PROD1104",
+    "product_name": "4K Monitor",
+    "category": "Displays",
+    "description": "27-inch UHD monitor",
+    "price": 22999.00,
+    "availability_status": "Coming Soon"
+  },
+  {
+    "product_id": "PROD1105",
+    "product_name": "Fitness Tracker",
+    "category": "Wearables",
+    "description": "Waterproof fitness band with heart rate monitor",
+    "price": 1999.00,
+    "availability_status": "Available"
+  },
+  {
+    "product_id": "PROD1106",
+    "product_name": "Laptop Cooling Stand",
+    "category": "Accessories",
+    "description": "Aluminum stand with fan",
+    "price": 799.00,
+    "availability_status": "In Stock"
+  },
+  {
+    "product_id": "PROD1107",
+    "product_name": "Gaming Mousepad",
+    "category": "Gaming",
+    "description": "Extended size mousepad with LED edge",
+    "price": 499.00,
+    "availability_status": "Backorder"
+  },
+  {
+    "product_id": "PROD1108",
+    "product_name": "Wireless Charger",
+    "category": "Mobile Accessories",
+    "description": "Fast charging pad for phones",
+    "price": 1299.00,
+    "availability_status": null
+  }
+]

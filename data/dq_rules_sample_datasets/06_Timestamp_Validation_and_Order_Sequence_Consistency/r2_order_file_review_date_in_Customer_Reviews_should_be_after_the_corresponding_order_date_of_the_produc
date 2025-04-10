@@ -1,0 +1,38 @@
+[
+  {
+    "order_id": "ORD1501",
+    "customer_id": "CUST1501",
+    "product_id": "PROD1501",
+    "order_date": "2025-04-01T10:00:00",
+    "order_status": "Delivered",
+    "quantity": 1,
+    "price": 999.00
+  },
+  {
+    "order_id": "ORD1502",
+    "customer_id": "CUST1502",
+    "product_id": "PROD1502",
+    "order_date": "2025-04-05T11:00:00",
+    "order_status": "Shipped",
+    "quantity": 2,
+    "price": 1299.00
+  },
+  {
+    "order_id": "ORD1503",
+    "customer_id": "CUST1503",
+    "product_id": "PROD1503",
+    "order_date": "2025-04-08T15:00:00",
+    "order_status": "Delivered",
+    "quantity": 1,
+    "price": 499.00
+  },
+  {
+    "order_id": "ORD1504",
+    "customer_id": "CUST1504",
+    "product_id": "PROD1504",
+    "order_date": "2025-04-09T14:00:00",
+    "order_status": "Delivered",
+    "quantity": 1,
+    "price": 799.00
+  }
+]

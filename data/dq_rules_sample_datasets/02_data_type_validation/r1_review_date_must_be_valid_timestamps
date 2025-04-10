@@ -1,0 +1,34 @@
+[
+  {
+    "review_id": "REV201",
+    "customer_id": "CUST201",
+    "product_id": "PROD201",
+    "rating": 5,
+    "review_text": "Excellent product!",
+    "review_date": "2023-10-20T09:45:00"
+  },
+  {
+    "review_id": "REV202",
+    "customer_id": "CUST202",
+    "product_id": "PROD202",
+    "rating": 3,
+    "review_text": "Average quality.",
+    "review_date": "2023-10-21T11:20:00"
+  },
+  {
+    "review_id": "REV203",
+    "customer_id": "CUST203",
+    "product_id": "PROD203",
+    "rating": 4,
+    "review_text": "Good for the price.",
+    "review_date": "NotAvailable"
+  },
+  {
+    "review_id": "REV204",
+    "customer_id": "CUST204",
+    "product_id": "PROD204",
+    "rating": 2,
+    "review_text": "Stopped working after a week.",
+    "review_date": "2023.10.22 10:00"
+  }
+]

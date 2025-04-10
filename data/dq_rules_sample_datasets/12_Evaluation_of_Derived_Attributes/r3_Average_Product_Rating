@@ -1,0 +1,66 @@
+[
+  {
+    "review_id": "REV3201",
+    "customer_id": "CUST3201",
+    "product_id": "PROD3201",
+    "rating": 4,
+    "review_text": "Great quality.",
+    "review_date": "2025-04-01T10:00:00"
+  },
+  {
+    "review_id": "REV3202",
+    "customer_id": "CUST3202",
+    "product_id": "PROD3201",
+    "rating": 5,
+    "review_text": "Loved it!",
+    "review_date": "2025-04-01T11:30:00"
+  },
+  {
+    "review_id": "REV3203",
+    "customer_id": "CUST3203",
+    "product_id": "PROD3202",
+    "rating": 3,
+    "review_text": "Average product.",
+    "review_date": "2025-04-02T08:45:00"
+  },
+  {
+    "review_id": "REV3204",
+    "customer_id": "CUST3204",
+    "product_id": "PROD3202",
+    "rating": 4,
+    "review_text": "Nice but a bit overpriced.",
+    "review_date": "2025-04-02T09:00:00"
+  },
+  {
+    "review_id": "REV3205",
+    "customer_id": "CUST3205",
+    "product_id": "PROD3202",
+    "rating": 2,
+    "review_text": "Not very durable.",
+    "review_date": "2025-04-02T10:00:00"
+  },
+  {
+    "review_id": "REV3206",
+    "customer_id": "CUST3206",
+    "product_id": "PROD3203",
+    "rating": 5,
+    "review_text": "Excellent and fast delivery!",
+    "review_date": "2025-04-03T14:15:00"
+  },
+  {
+    "review_id": "REV3207",
+    "customer_id": "CUST3207",
+    "product_id": "PROD3203",
+    "rating": 5,
+    "review_text": "Highly recommend!",
+    "review_date": "2025-04-03T15:00:00"
+  },
+  {
+    "review_id": "REV3208",
+    "customer_id": "CUST3208",
+    "product_id": "PROD3204",
+    "rating": 1,
+    "review_text": "Worst product ever.",
+    "review_date": "2025-04-04T16:00:00"
+  }
+]

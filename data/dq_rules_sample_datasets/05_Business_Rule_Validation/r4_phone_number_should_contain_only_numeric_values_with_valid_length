@@ -1,0 +1,66 @@
+[
+  {
+    "customer_id": "CUST1301",
+    "first_name": "Nitin",
+    "last_name": "Joshi",
+    "email": "nitin.joshi@example.com",
+    "address": "Jaipur, India",
+    "phone_number": "9876543210"
+  },
+  {
+    "customer_id": "CUST1302",
+    "first_name": "Pooja",
+    "last_name": "Rana",
+    "email": "pooja.rana@example.com",
+    "address": "Chandigarh, India",
+    "phone_number": "9123456789"
+  },
+  {
+    "customer_id": "CUST1303",
+    "first_name": "Rakesh",
+    "last_name": "Nair",
+    "email": "rakesh.nair@example.com",
+    "address": "Kochi, India",
+    "phone_number": "123456789"   // too short
+  },
+  {
+    "customer_id": "CUST1304",
+    "first_name": "Seema",
+    "last_name": "Yadav",
+    "email": "seema.yadav@example.com",
+    "address": "Bhopal, India",
+    "phone_number": "123456789012"  // too long
+  },
+  {
+    "customer_id": "CUST1305",
+    "first_name": "Vikas",
+    "last_name": "Kapoor",
+    "email": "vikas.kapoor@example.com",
+    "address": "Nagpur, India",
+    "phone_number": "98A76B4321"  // contains characters
+  },
+  {
+    "customer_id": "CUST1306",
+    "first_name": "Alisha",
+    "last_name": "Khan",
+    "email": "alisha.khan@example.com",
+    "address": "Lucknow, India",
+    "phone_number": ""  // empty string
+  },
+  {
+    "customer_id": "CUST1307",
+    "first_name": "Dinesh",
+    "last_name": "Batra",
+    "email": "dinesh.batra@example.com",
+    "address": "Amritsar, India",
+    "phone_number": null  // null value
+  },
+  {
+    "customer_id": "CUST1308",
+    "first_name": "Swati",
+    "last_name": "Menon",
+    "email": "swati.menon@example.com",
+    "address": "Thiruvananthapuram, India",
+    "phone_number": "9001122334"
+  }
+]

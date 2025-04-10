@@ -1,0 +1,70 @@
+[
+  {
+    "review_id": "REV3401",
+    "customer_id": "CUST3401",
+    "product_id": "PROD3401",
+    "rating": 5,
+    "review_text": "Excellent product!",
+    "review_date": "2025-04-01T10:00:00"
+  },
+  {
+    "review_id": "REV3402",
+    "customer_id": "CUST3401",
+    "product_id": "PROD3402",
+    "rating": 4,
+    "review_text": "Good value for money.",
+    "review_date": "2025-04-01T10:15:00"
+  },
+  {
+    "review_id": "REV3403",
+    "customer_id": "CUST3402",
+    "product_id": "PROD3403",
+    "rating": 3,
+    "review_text": "Average experience.",
+    "review_date": "2025-04-01T11:00:00"
+  },
+  {
+    "review_id": "REV3404",
+    "customer_id": "CUST3403",
+    "product_id": "PROD3404",
+    "rating": 2,
+    "review_text": "Could be better.",
+    "review_date": "2025-04-01T11:30:00"
+  },
+  {
+    "review_id": "REV3405",
+    "customer_id": "CUST3401",
+    "product_id": "PROD3405",
+    "rating": 5,
+    "review_text": "Loved it!",
+    "review_date": "2025-04-01T11:45:00"
+  },
+  {
+    "review_id": "REV3406",
+    "customer_id": "CUST3401",
+    "product_id": "PROD3406",
+    "rating": 4,
+    "review_text": "Highly recommend.",
+    "review_date": "2025-04-01T12:00:00"
+  },
+  {
+    "review_id": "REV3407",
+    "customer_id": "CUST3401",
+    "product_id": "PROD3407",
+    "rating": 3,
+    "review_text": "Okayish.",
+    "review_date": "2025-04-01T12:10:00"
+  },
+
+  // 45 more similar entries for CUST3401 on same date
+  // Skipping for brevity – assume same structure repeated
+
+  {
+    "review_id": "REV3453",
+    "customer_id": "CUST3401",
+    "product_id": "PROD3453",
+    "rating": 5,
+    "review_text": "Great!",
+    "review_date": "2025-04-01T23:59:00"
+  }
+]
